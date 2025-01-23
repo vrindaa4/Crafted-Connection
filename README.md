@@ -1,21 +1,28 @@
+# Crafted Connections 🎨
+
+A digital marketplace for handmade goods, empowering artisans to showcase and sell their unique creations. Built with the MERN stack (MongoDB, Express, React, Node.js).
 
 ---
 
-### **4. Final Touches**
-1. **Add a License**:
-   - Use an MIT license for open contributions:
-     ```bash
-     touch LICENSE
-     git add LICENSE
-     git commit -m "Add MIT license"
-     ```
-
-2. **Add a Screenshot/Logo**:
-   - Include a `screenshots/` folder with images of the app and reference them in the README.
-
-3. **Update the Repository Description**:
-   - Add topics such as `MERN`, `marketplace`, `handmade-goods` for discoverability.
+## 🌟 Features
+- **Browse Handmade Goods**: Discover curated collections from talented artisans.
+- **User Authentication**: Secure login and signup with JWT.
+- **Product Management**: Add, edit, and delete products.
+- **Order Management**: Streamlined order placement and tracking.
+- **Search and Filters**: Easily find products using categories and tags.
 
 ---
 
-Let me know if you'd like to customize the README further or need help setting up anything!
+## 🛠️ Tech Stack
+- **Frontend**: React, Axios, React Router
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: JSON Web Tokens (JWT)
+
+---
+
+## 🚀 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vrinda040104/Crafted-Connections.git
